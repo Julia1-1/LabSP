@@ -1,0 +1,5 @@
+#!/bin/bash
+IMIE=Julia
+NAZWISKO=Kozlowska
+echo "$IMIE $NAZWISKO"
+
